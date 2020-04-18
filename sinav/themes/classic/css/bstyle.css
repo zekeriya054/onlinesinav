@@ -1,0 +1,38 @@
+.scale,.scale table {
+    font-size: 10px;
+}
+.basari {
+    font-size:13px;
+
+}
+.basari h5 {
+   text-align:center;
+}
+.yuzde {
+    font-size:24px;
+}
+.s1 {
+    color:#CCC;
+}
+.grid1{
+    font-size: 13px !important;
+}
+
+.basari {
+       padding-right: 20px;
+       padding-left: 20px;
+       border-right: 1px #EEE solid; 
+       border-left: 1px #EEE solid;
+}
+.sinav{
+    padding-bottom: 20px;
+    border-bottom: 1px #EEE solid;
+    padding-top: 20px;
+    
+}
+.snv_adi {
+    font-style: italic;
+    color: #049cdb;
+}
+#preloader{filter:alpha(opacity=90);-moz-opacity:.90;opacity:.90;position:absolute; left:0px; background:#000;z-index:99; top:0px; width:100%; height:100%;line-height:600px;color:#fff; text-align:center;}
+#yukleniyor{position:absolute;top:50%;left:50%;width:500px;height:100px;line-height:100px;margin-left:-250px;margin-top:-50px;font-size:18px;font-family:verdana;}

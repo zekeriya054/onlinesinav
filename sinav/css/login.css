@@ -1,0 +1,112 @@
+body {
+    background-color:#efefef;
+    margin:0;
+    padding:0;
+}
+
+#ust_menu {
+    width:800px;
+    height:70px;
+    background-image:url(../images/header_admin.png);
+    background-repeat:repeat-x;
+    margin:0 auto;
+    margin-top:5px;
+    border-radius:5px;
+}
+#ana_yerlesim #ust_menu ul {
+    list-style-type:none;
+    border:1px #CCC solid;
+    width:80px;
+   height:70px;
+ 
+}
+#ust_menu ul li {
+  width:80px;
+  text-align:center;
+}
+
+#ana_yerlesim {
+    width:800px;
+    margin:0px auto;
+    font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size:12px;
+    background:#FFF;
+    padding-bottom:40px;
+    color:#FFF;
+
+}
+
+#ana_yerlesim #baslik {
+    width:800px;
+    height:25px;
+    background-image:url(../images/headergiris.jpg);
+    background-repeat:repeat-x;
+    margin:0 auto;
+    margin-bottom:50px;
+    display:table;
+    position:relative;
+    border-radius:3px;
+    margin-top:5px;
+}
+#ana_yerlesim #baslik strong {
+   
+    position:absolute;
+    padding-left:20px;
+    color:#FFF;
+    top:20%;
+}
+.giris {
+    border:1px #CCC solid;
+    width:400px;
+    height:260px;
+    border-radius:8px;
+    margin:20px auto;
+    font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size:12px;
+    color:#4a5571;
+}
+.giris strong {
+    font-weight:bold;
+
+}
+
+.giris_frm ul{
+    list-style-type:none;
+    width:350px;
+    margin:0 auto;
+    margin-top:30px;
+    margin-left:30px;
+
+}
+.giris img {
+    margin-left:20px;
+    margin-top:25px;
+    margin-right:25px;
+}
+.bosluk{
+    margin-top:15px;
+   
+}
+.giris_frm .btn {
+    color:#660000;
+    background-image:url(../images/orangebtn.jpg);
+    border:1px solid #bf6628;
+    height:20px;
+    font-size:11px;
+    font-weight:bold;
+    padding-left:6px;
+    padding-right:6px;
+
+}
+.giris_frm .btn:hover {
+    background-image:url(../images/orangebtnover.gif);
+}
+.hata {
+  color:red;
+}
+.hata img {
+    margin-right:5px;
+}
+.hata strong {
+  font-weight:bold;
+}
