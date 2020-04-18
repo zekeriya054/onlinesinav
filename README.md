@@ -12,5 +12,5 @@ kullanıcı :<b>user</b>
 parola :<b>user</b>
 
 
-undefined variable gibi uyarıları almamak için ;PHP.ini dosyasında 
-<b>error_reporting= E_COMPILE_ERROR|E_RECOVERABLE_ERROR|E_ERROR|E_CORE_ERROR </b> düzeltmesini yapınız
+<p>undefined variable gibi uyarıları almamak için PHP.ini dosyasında ;</p>
+<p><b>error_reporting= E_COMPILE_ERROR|E_RECOVERABLE_ERROR|E_ERROR|E_CORE_ERROR </b> düzeltmesini yapınız</p>
