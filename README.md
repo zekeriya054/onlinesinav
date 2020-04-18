@@ -1,15 +1,15 @@
 # onlinesinav
-PHP ve Yii frameworkle yazılmış online sınav sistemidir
+<h2>PHP ve Yii frameworkle yazılmış online sınav sistemidir</h2>
 
 <p>veri tabanını yüklemek için sınav/veriler.sql dosyasını import ediniz.</p>
-<p> local de çalıştırmak için : <b> localhost/online_sinav/sinav </b>
+<p> local de çalıştırmak için : <b> localhost/online_sinav/sinav </b></p>
 admin kullanıcı girişi için:
-kullanıcı :admin
-parola:admin
+kullanıcı :<b>admin</b>
+parola:<b>admin</b>
 
 kullanıcı girişi için :
-kullanıcı :user
-parola :user
+kullanıcı :<b>user</b>
+parola :<b>user</b>
 
 
 undefined variable gibi uyarıları almamak için ;PHP.ini dosyasında 
